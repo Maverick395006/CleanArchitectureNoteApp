@@ -1,4 +1,4 @@
-package com.maverick.cleanarchitecturenoteapp
+package com.maverick.cleanarchitecturenoteapp.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
